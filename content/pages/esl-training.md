@@ -11,40 +11,214 @@ This page is dedicated to an ESL training program developed in 21G.034 / CMS.930
 
 How to use this site. ([MP4 - 3MB](http://archive.org/download/MIT21F.034F05/ocw-21f-034-susan-intro-how-to-220k.mp4))
 
-| Level 1 (Beg. Int.) | &nbsp; |
-| --- | --- |
-| {{< td-colspan 2 >}}**Class 1**{{< /td-colspan >}} ||
-| Title | The Messy Apartment |
-| Topic | Agreeing |
-| Grammar Highlights | Verb: need |
-| English Expressions & Vocabulary | I couldn't Agree with You More; so (emphatic words) |
-| Pronunciation and Intonation | Couldn't (cuhdnt); What Do You (whaddoyou); I'll (eyeyull) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Level 1 (Beg. Int.)
+{{< thclose >}}
+{{< thopen >}}
+ 
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Class 1**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Title
+{{< tdclose >}}
+{{< tdopen >}}
+The Messy Apartment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Topic
+{{< tdclose >}}
+{{< tdopen >}}
+Agreeing
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Grammar Highlights
+{{< tdclose >}}
+{{< tdopen >}}
+Verb: need
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+English Expressions & Vocabulary
+{{< tdclose >}}
+{{< tdopen >}}
+I couldn't Agree with You More; so (emphatic words)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Pronunciation and Intonation
+{{< tdclose >}}
+{{< tdopen >}}
+Couldn't (cuhdnt); What Do You (whaddoyou); I'll (eyeyull)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Video ([MP4 - 17MB](http://www.archive.org/download/MIT21F.034F05/ocw-21f-034-susan-beg-int-esl-class-1-220k.mp4))
 
 Video Text ([PDF]({{< baseurl >}}/resources/mit21g_034f05_beg_int))
 
-| Level 2 (Int.) | &nbsp; |
-| --- | --- |
-| {{< td-colspan 2 >}}**Class 1**{{< /td-colspan >}} ||
-| Title | Birthday Blues |
-| Topic | Disagreeing |
-| Grammar Highlights | Auxiliary Verbs: have to |
-| English Expressions & Vocabulary | That's out of the Question; but/however (contrast) |
-| Pronunciation and Intonation | Out of (ahouda) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Level 2 (Int.)
+{{< thclose >}}
+{{< thopen >}}
+ 
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Class 1**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Title
+{{< tdclose >}}
+{{< tdopen >}}
+Birthday Blues
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Topic
+{{< tdclose >}}
+{{< tdopen >}}
+Disagreeing
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Grammar Highlights
+{{< tdclose >}}
+{{< tdopen >}}
+Auxiliary Verbs: have to
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+English Expressions & Vocabulary
+{{< tdclose >}}
+{{< tdopen >}}
+That's out of the Question; but/however (contrast)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Pronunciation and Intonation
+{{< tdclose >}}
+{{< tdopen >}}
+Out of (ahouda)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Video ([MP4 - 18MB](http://www.archive.org/download/MIT21F.034F05/ocw-21f-034-susan-int-eslclass-1-220k.mp4))
 
 Video Text ([PDF]({{< baseurl >}}/resources/mit21g_034f05_int))
 
-| Level 3 (Adv. Int.) | &nbsp; |
-| --- | --- |
-| {{< td-colspan 2 >}}**Class 1**{{< /td-colspan >}} ||
-| Title | Midterms |
-| Topic | Greetings |
-| Grammar Highlights | Omission: (are), (it's, that's, do you) |
-| English Expressions & Vocabulary | Going Nuts; Crazy (emphatic words); To Pull an All-nighter; Sounds Like a Plan |
-| Pronunciation and Intonation | Rising Intonation-Maybe Just a Few Hours? 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Level 3 (Adv. Int.)
+{{< thclose >}}
+{{< thopen >}}
+ 
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Class 1**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Title
+{{< tdclose >}}
+{{< tdopen >}}
+Midterms
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Topic
+{{< tdclose >}}
+{{< tdopen >}}
+Greetings
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Grammar Highlights
+{{< tdclose >}}
+{{< tdopen >}}
+Omission: (are), (it's, that's, do you)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+English Expressions & Vocabulary
+{{< tdclose >}}
+{{< tdopen >}}
+Going Nuts; Crazy (emphatic words); To Pull an All-nighter; Sounds Like a Plan
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Pronunciation and Intonation
+{{< tdclose >}}
+{{< tdopen >}}
+Rising Intonation-Maybe Just a Few Hours?
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Video ([MP4 - 25MB](http://www.archive.org/download/MIT21F.034F05/ocw-21f-034-susan-adv-int-class-1-220k.mp4))
 

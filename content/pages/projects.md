@@ -21,12 +21,57 @@ PrepCom Final Document with OCW Proposed Revisions ([PDF]({{< baseurl >}}/resour
 
 The material in the table below is presented with the permission of the students in the course.
 
-| Students | WSIS papers |
-| --- | --- |
-| Bryant Harrison | ([PDF]({{< baseurl >}}/resources/mit21g_034f05_wsisbryantha)) |
-| Jonathan Harris | ([PDF]({{< baseurl >}}/resources/mit21g_034f05_wsisjonthnha)) |
-| Marta Luczynska | ([PDF]({{< baseurl >}}/resources/mit21g_034f05_wsismartaluc)) |
-| Raja Bobbili | ([PDF]({{< baseurl >}}/resources/mit21g_034f05_wsisrajabobb)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Students
+{{< thclose >}}
+{{< thopen >}}
+WSIS papers
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Bryant Harrison
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21g_034f05_wsisbryantha))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jonathan Harris
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21g_034f05_wsisjonthnha))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Marta Luczynska
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21g_034f05_wsismartaluc))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Raja Bobbili
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21g_034f05_wsisrajabobb))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Fieldwork Project
 -----------------
@@ -39,15 +84,158 @@ Fieldwork Proposal ([PDF]({{< baseurl >}}/resources/mit21g_034f05_fieldworkpro))
 
 The material in the table below is presented with the permission of the students in the course.
 
-| Students | fieldwork projects |
-| --- | --- |
-|  {{< br >}}{{< br >}} Fawah Akwo {{< br >}}{{< br >}} Jamira Cotton {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} iREACT (also known as OpenCameroom) ([PDF]({{< baseurl >}}/resources/mit21g_034f05_ireact)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Marta Luczynska {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} OpenZambia ([PDF]({{< baseurl >}}/resources/mit21g_034f05_openzambiama)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Bryant Harrison {{< br >}}{{< br >}} Mohamed Haji {{< br >}}{{< br >}} Jonathan Harris {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} OpenKenya ([PDF]({{< baseurl >}}/resources/mit21g_034f05_openkenya)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Irina Azu {{< br >}}{{< br >}} Raja Bobbili {{< br >}}{{< br >}} Jiho Lee {{< br >}}{{< br >}} Tiffany Yang {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Outsource Africa ([PDF]({{< baseurl >}}/resources/mit21g_034f05_outsourceafr)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Jesus Alvarez {{< br >}}{{< br >}} Tabitha Bonilla {{< br >}}{{< br >}} Yamicia Connor {{< br >}}{{< br >}} Yonatan Tekleab {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} FLiTE ([PDF]({{< baseurl >}}/resources/mit21g_034f05_flite)) ([XLS]({{< baseurl >}}/resources/fliteappendix)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Susan MacDonald {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ESL Training ([PDF 1]({{< baseurl >}}/resources/mit21g_034f05_classone)) ([PDF 2]({{< baseurl >}}/resources/mit21g_034f05_esl_classes)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Theresa Eugenio {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Cambridge Access Project ([PDF]({{< baseurl >}}/resources/mit21g_034f05_captheresaeu)) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Students
+{{< thclose >}}
+{{< thopen >}}
+fieldwork projects
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Fawah Akwo
+
+Jamira Cotton
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+iREACT (also known as OpenCameroom) ([PDF]({{< baseurl >}}/resources/mit21g_034f05_ireact))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Marta Luczynska
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+OpenZambia ([PDF]({{< baseurl >}}/resources/mit21g_034f05_openzambiama))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Bryant Harrison
+
+Mohamed Haji
+
+Jonathan Harris
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+OpenKenya ([PDF]({{< baseurl >}}/resources/mit21g_034f05_openkenya))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Irina Azu
+
+Raja Bobbili
+
+Jiho Lee
+
+Tiffany Yang
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Outsource Africa ([PDF]({{< baseurl >}}/resources/mit21g_034f05_outsourceafr))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Jesus Alvarez
+
+Tabitha Bonilla
+
+Yamicia Connor
+
+Yonatan Tekleab
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+FLiTE ([PDF]({{< baseurl >}}/resources/mit21g_034f05_flite)) ([XLS]({{< baseurl >}}/resources/fliteappendix))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Susan MacDonald
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+ESL Training ([PDF 1]({{< baseurl >}}/resources/mit21g_034f05_classone)) ([PDF 2]({{< baseurl >}}/resources/mit21g_034f05_esl_classes))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Theresa Eugenio
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cambridge Access Project ([PDF]({{< baseurl >}}/resources/mit21g_034f05_captheresaeu))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Final Project
 -------------
@@ -58,16 +246,185 @@ Final Project ([PDF]({{< baseurl >}}/resources/mit21g_034f05_finalproject))
 
 The material in the table below is presented with the permission of the students in the course.
 
-| StudentS | fiNAL pROJECTS | SLIDES | REPORTS |
-| --- | --- | --- | --- |
-| {{< td-colspan 4 >}}**Case Study-related Projects**{{< /td-colspan >}} ||||
-| Marta Luczynska {{< br >}}{{< br >}} Raja Bobbili {{< br >}}{{< br >}}  | ICTs and Zambia: Two Case Studies | ([PDF]({{< baseurl >}}/resources/mit21g_034f05_ictandzambia)) | ([PDF]({{< baseurl >}}/resources/mit21g_034f05_zambiancs)) |
-| Tabitha Bonilla {{< br >}}{{< br >}} Yamicia Connor {{< br >}}{{< br >}} Yonatan Tekleab {{< br >}}{{< br >}}  | MEET: A Case Study | ([PDF]({{< baseurl >}}/resources/mit21g_034f05_meet)) | ([PDF]({{< baseurl >}}/resources/mit21g_034f05_meetcs)) |
-| {{< td-colspan 4 >}}**Fieldwork Project Expansions**{{< /td-colspan >}} ||||
-| Fawah Akwo {{< br >}}{{< br >}} Jamira Cotton {{< br >}}{{< br >}}  | [iREACT Materials]({{< baseurl >}}/pages/ireact) (please see iREACT section of site) | &nbsp; |
-| Susan MacDonald | [ESL Training]({{< baseurl >}}/pages/esl-training) (please see ESL Training section of site) | &nbsp; |
-| Irina Azu {{< br >}}{{< br >}} Tiffany Yang {{< br >}}{{< br >}}  | Outsourcing: What is it? Why India?  {{< br >}}(The material from this project will serve as a literature review for the Outsource Africa project.) | ([PDF]({{< baseurl >}}/resources/mit21g_034f05_outsourcing)) | ([PDF 1]({{< baseurl >}}/resources/mit21g_034f05_outsourcwhat)) {{< br >}}{{< br >}} ([PDF 2]({{< baseurl >}}/resources/mit21g_034f05_outsourciwhy)) {{< br >}}{{< br >}}  |
-| {{< td-colspan 4 >}}**General Topics**{{< /td-colspan >}} ||||
-| Mohamed Haji | ICTs and Poverty Eradication | ([PDF]({{< baseurl >}}/resources/mit21g_034f05_povertyicts)) | ([PDF]({{< baseurl >}}/resources/mit21g_034f05_ictspovertye)) |
-| Jonathan Harris | ICTs and the Global Labor Force | ([PDF]({{< baseurl >}}/resources/mit21g_034f05_itandglobalm)) | ([PDF]({{< baseurl >}}/resources/mit21g_034f05_itglobal)) |
-| Bryant Harrison | ICT Policy in Rwanda | ([PDF]({{< baseurl >}}/resources/mit21g_034f05_ictpolicyrwa)) | ([PDF]({{< baseurl >}}/resources/mit21g_034f05_ictrwanda))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+StudentS
+{{< thclose >}}
+{{< thopen >}}
+fiNAL pROJECTS
+{{< thclose >}}
+{{< thopen >}}
+SLIDES
+{{< thclose >}}
+{{< thopen >}}
+REPORTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Case Study-related Projects**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Marta Luczynska
+
+Raja Bobbili
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ICTs and Zambia: Two Case Studies
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21g_034f05_ictandzambia))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21g_034f05_zambiancs))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tabitha Bonilla
+
+Yamicia Connor
+
+Yonatan Tekleab
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+MEET: A Case Study
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21g_034f05_meet))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21g_034f05_meetcs))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Fieldwork Project Expansions**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Fawah Akwo
+
+Jamira Cotton
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[iREACT Materials]({{< baseurl >}}/pages/ireact) (please see iREACT section of site)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Susan MacDonald
+{{< tdclose >}}
+{{< tdopen >}}
+[ESL Training]({{< baseurl >}}/pages/esl-training) (please see ESL Training section of site)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Irina Azu
+
+Tiffany Yang
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Outsourcing: What is it? Why India?  
+(The material from this project will serve as a literature review for the Outsource Africa project.)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21g_034f05_outsourcing))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF 1]({{< baseurl >}}/resources/mit21g_034f05_outsourcwhat))
+
+([PDF 2]({{< baseurl >}}/resources/mit21g_034f05_outsourciwhy))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**General Topics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mohamed Haji
+{{< tdclose >}}
+{{< tdopen >}}
+ICTs and Poverty Eradication
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21g_034f05_povertyicts))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21g_034f05_ictspovertye))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jonathan Harris
+{{< tdclose >}}
+{{< tdopen >}}
+ICTs and the Global Labor Force
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21g_034f05_itandglobalm))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21g_034f05_itglobal))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Bryant Harrison
+{{< tdclose >}}
+{{< tdopen >}}
+ICT Policy in Rwanda
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21g_034f05_ictpolicyrwa))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21g_034f05_ictrwanda))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

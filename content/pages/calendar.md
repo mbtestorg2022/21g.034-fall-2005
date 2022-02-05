@@ -4,18 +4,347 @@ title: Calendar
 uid: e392db57-5663-682d-ff24-969a6181586e
 ---
 
-| WEEK # | TOPICS | Presenters |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Introduction and Logistics for Class {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Prof. Shigeru Miyagawa {{< br >}}{{< br >}} Mr. Manish Gaudi {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Case Study: The MIT OpenCourseWare Story {{< br >}}{{< br >}} WSIS Discussion {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Prof. Shigeru Miyagawa {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Bridging the Digital Divide: Is There Anything to Bridge? Is It Worth It? {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Students {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Effective Proposal Writing {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Mrs. Sally Susnowitz {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Case Study: ICT Projects at MIT: A Student Panel {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Ms. Anat Binur {{< br >}}{{< br >}} Mr. Manish Gaudi {{< br >}}{{< br >}} Mr. Dan Wheeler {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Relationship between ICTs and Entrepreneurship {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Students {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ICTs for Development: Past Projects {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Students {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Case Study: ICT Projects at MIT: A Faculty Panel {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Prof. Richard Larson, LINC {{< br >}}{{< br >}} Prof. Jesus del Alamo, iLabs {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ICTs and Healthcare {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Students {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} WSIS Wrap-Up {{< br >}}{{< br >}} ICTs and Nations {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Ms. Anita Chan {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 11 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ICTs and Democracy {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Students {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 12 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Evaluation {{< br >}}{{< br >}} Open Office Hours: Projects {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} N/A {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 13 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Final Project Presentations {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Students {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+Presenters
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction and Logistics for Class
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Prof. Shigeru Miyagawa
+
+Mr. Manish Gaudi
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Case Study: The MIT OpenCourseWare Story
+
+WSIS Discussion
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Prof. Shigeru Miyagawa
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Bridging the Digital Divide: Is There Anything to Bridge? Is It Worth It?
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Students
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Effective Proposal Writing
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mrs. Sally Susnowitz
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Case Study: ICT Projects at MIT: A Student Panel
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ms. Anat Binur
+
+Mr. Manish Gaudi
+
+Mr. Dan Wheeler
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Relationship between ICTs and Entrepreneurship
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Students
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+ICTs for Development: Past Projects
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Students
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Case Study: ICT Projects at MIT: A Faculty Panel
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Prof. Richard Larson, LINC
+
+Prof. Jesus del Alamo, iLabs
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+9
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+ICTs and Healthcare
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Students
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+10
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+WSIS Wrap-Up
+
+ICTs and Nations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ms. Anita Chan
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+ICTs and Democracy
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Students
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+12
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Evaluation
+
+Open Office Hours: Projects
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+N/A
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+13
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final Project Presentations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Students
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -15,16 +15,261 @@ Purpose
 
 iREACT Presentation ([PDF]({{< baseurl >}}/resources/mit21g_034f05_ireactmat))
 
-| TOPICS | Slides | related resources |
-| --- | --- | --- |
-| {{< td-colspan 3 >}} {{< br >}}{{< br >}} **Phase I: Getting Started and Information about College** {{< br >}}{{< br >}} {{< /td-colspan >}} |||
-|  {{< br >}}{{< br >}} Introduction to Program {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit21g_034f05_introtoprog)) {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} Blogs {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit21g_034f05_blogs)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [GreatestJournal](https://encyclopediadramatica.se/GreatestJournal) {{< br >}}{{< br >}} [Pitas.com](http://pitas.com/) {{< br >}}{{< br >}} [Xanga.com](http://xanga.com/) {{< br >}}{{< br >}} [LiveJournal](http://livejournal.com/) {{< br >}}{{< br >}} [Blogger](http://blogger.com/) {{< br >}}{{< br >}} [DeadJournal](http://deadjournal.com/) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Studying Science and Engineering {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit21g_034f05_studysciengi)) {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} Being an International Student in America {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit21g_034f05_beingintlstu)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Yaunde](https://cm.usembassy.gov/embassy/yaounde/) {{< br >}}{{< br >}} [International Information Programs](http://www.state.gov/r/iip/) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Financing an Education abroad {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit21g_034f05_financingedu)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [College Board](https://www.collegeboard.org/) {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}} {{< br >}}{{< br >}} **Phase II: Developing Yourself as an Exceptional Applicant** {{< br >}}{{< br >}} {{< /td-colspan >}} |||
-|  {{< br >}}{{< br >}} SAT Introduction {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit21g_034f05_satintro)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [SAT](http://www.collegeboard.com/student/testing/sat/about.html) {{< br >}}{{< br >}} [The Princeton Review](http://www.review.com/) {{< br >}}{{< br >}} [Peterson](https://www.petersons.com/) {{< br >}}{{< br >}} [Test Preview](http://www.testprepreview.com/) {{< br >}}{{< br >}} [4Test](http://www.4tests.com/exams/examdetail.asp?eid=6) {{< br >}}{{< br >}} [Education Planner](http://www.educationplanner.org/) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Introduction to TOEFL {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit21g_034f05_intrototoefl)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [education USA](http://educationusa.state.gov/) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Essay Information {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit21g_034f05_essayinfo)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Sample Essays](http://www.internationalstudent.com/essay_writing/college_essay.shtml) {{< br >}}{{< br >}} [Essay Writing Tips](http://www.internationalstudent.com/essay_writing/essay_tips.shtml) {{< br >}}{{< br >}} [The Princeton Review](http://www.princetonreview.com/home.asp) {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}} {{< br >}}{{< br >}} **Phase III: Focus on the Individual** {{< br >}}{{< br >}} {{< /td-colspan >}} ||
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+Slides
+{{< thclose >}}
+{{< thopen >}}
+related resources
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+
+
+**Phase I: Getting Started and Information about College**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Introduction to Program
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/mit21g_034f05_introtoprog))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Blogs
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/mit21g_034f05_blogs))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[GreatestJournal](https://encyclopediadramatica.se/GreatestJournal)
+
+[Pitas.com](http://pitas.com/)
+
+[Xanga.com](http://xanga.com/)
+
+[LiveJournal](http://livejournal.com/)
+
+[Blogger](http://blogger.com/)
+
+[DeadJournal](http://deadjournal.com/)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Studying Science and Engineering
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/mit21g_034f05_studysciengi))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Being an International Student in America
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/mit21g_034f05_beingintlstu))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Yaunde](https://cm.usembassy.gov/embassy/yaounde/)
+
+[International Information Programs](http://www.state.gov/r/iip/)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Financing an Education abroad
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/mit21g_034f05_financingedu))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[College Board](https://www.collegeboard.org/)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+
+
+**Phase II: Developing Yourself as an Exceptional Applicant**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+SAT Introduction
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/mit21g_034f05_satintro))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[SAT](http://www.collegeboard.com/student/testing/sat/about.html)
+
+[The Princeton Review](http://www.review.com/)
+
+[Peterson](https://www.petersons.com/)
+
+[Test Preview](http://www.testprepreview.com/)
+
+[4Test](http://www.4tests.com/exams/examdetail.asp?eid=6)
+
+[Education Planner](http://www.educationplanner.org/)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Introduction to TOEFL
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/mit21g_034f05_intrototoefl))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[education USA](http://educationusa.state.gov/)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Essay Information
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/mit21g_034f05_essayinfo))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Sample Essays](http://www.internationalstudent.com/essay_writing/college_essay.shtml)
+
+[Essay Writing Tips](http://www.internationalstudent.com/essay_writing/essay_tips.shtml)
+
+[The Princeton Review](http://www.princetonreview.com/home.asp)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+
+
+**Phase III: Focus on the Individual**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
