@@ -4,6 +4,7 @@ description: 'This resource include information on background, imapct, challenge
   on radio farm forum and afronet: learning from successful ICT projects in zambia.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-034-media-education-and-the-marketplace-fall-2005/b64ff1a2621dfac37a92e58690ebf9e5_MIT21G_034F05_zambiancs.pdf
 file_type: application/pdf
+parent_uid: 553609a0-02d3-74b3-9d9b-c01fee73f101
 resourcetype: Document
 title: Abstract
 uid: b64ff1a2-621d-fac3-7a92-e58690ebf9e5

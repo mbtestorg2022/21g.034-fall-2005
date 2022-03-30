@@ -4,6 +4,7 @@ description: This resource includes information on digital device, technology of
   and technological disparity.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-034-media-education-and-the-marketplace-fall-2005/c0e649d3de6ae1975895364b1e07435a_MIT21G_034F05_bridginanyth.pdf
 file_type: application/pdf
+parent_uid: 817b383e-7b82-2721-ac2c-16292898491a
 resourcetype: Document
 title: Is there a digital divide?
 uid: c0e649d3-de6a-e197-5895-364b1e07435a

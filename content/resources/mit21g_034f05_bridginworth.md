@@ -4,6 +4,7 @@ description: This resource includes information on digital divide, bridging the 
   divide, and history of telephone industry.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-034-media-education-and-the-marketplace-fall-2005/61cbdcc6525e376f6dba4170fd9a2447_MIT21G_034F05_bridginworth.pdf
 file_type: application/pdf
+parent_uid: 817b383e-7b82-2721-ac2c-16292898491a
 resourcetype: Document
 title: "Bridging the Digital Divide \u2013 Is it worth?"
 uid: 61cbdcc6-525e-376f-6dba-4170fd9a2447

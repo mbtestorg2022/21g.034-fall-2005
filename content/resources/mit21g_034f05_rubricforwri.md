@@ -4,6 +4,7 @@ description: 'This resource includes information on grading rubric for writing: 
   ed & marketplace 9.05.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-034-media-education-and-the-marketplace-fall-2005/44b1031aaf3c28961ba546df73174098_MIT21G_034F05_rubricforwri.pdf
 file_type: application/pdf
+parent_uid: 817b383e-7b82-2721-ac2c-16292898491a
 resourcetype: Document
 title: Grading Rubric for Oral Presentations
 uid: 44b1031a-af3c-2896-1ba5-46df73174098

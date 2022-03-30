@@ -4,6 +4,7 @@ description: This resource includes information on grameen phones, voxiva, GT be
   GP-Gt interaction and measures of success.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-034-media-education-and-the-marketplace-fall-2005/c55544f116d2b6d836e5a3adb8258650_MIT21G_034F05_itcspastpro.pdf
 file_type: application/pdf
+parent_uid: 817b383e-7b82-2721-ac2c-16292898491a
 resourcetype: Document
 title: Case studies
 uid: c55544f1-16d2-b6d8-36e5-a3adb8258650

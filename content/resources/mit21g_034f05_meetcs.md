@@ -4,6 +4,7 @@ description: This resource includes information on limitations to research, thre
   different schemas for MEET, MEET as an NGO, and partnership.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-034-media-education-and-the-marketplace-fall-2005/00ab9e74b52f25f55e38e92921d714ed_MIT21G_034F05_meetcs.pdf
 file_type: application/pdf
+parent_uid: 553609a0-02d3-74b3-9d9b-c01fee73f101
 resourcetype: Document
 title: 'Section 1: Middle East Education through Technology'
 uid: 00ab9e74-b52f-25f5-5e38-e92921d714ed

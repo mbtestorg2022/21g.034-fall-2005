@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes tips for oral presentation.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-034-media-education-and-the-marketplace-fall-2005/bd866f3e64a120f17a34064be851ef61_MIT21G_034F05_tipsfororalp.pdf
 file_type: application/pdf
+parent_uid: 817b383e-7b82-2721-ac2c-16292898491a
 resourcetype: Document
 title: Tips for Oral Presentations Monday
 uid: bd866f3e-64a1-20f1-7a34-064be851ef61

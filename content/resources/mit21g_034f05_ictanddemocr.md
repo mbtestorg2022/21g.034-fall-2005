@@ -5,6 +5,7 @@ description: This resource includes information on digital democracy, representa
   and virtual practice.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-034-media-education-and-the-marketplace-fall-2005/b211e6324b53c4d8d9a02b6c0cc330d7_MIT21G_034F05_ictanddemocr.pdf
 file_type: application/pdf
+parent_uid: 817b383e-7b82-2721-ac2c-16292898491a
 resourcetype: Document
 title: ICTs and Democracy
 uid: b211e632-4b53-c4d8-d9a0-2b6c0cc330d7
